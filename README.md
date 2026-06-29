@@ -85,7 +85,7 @@ The following visualizations were created:
 ```
 Sales-Performance-Analysis-System/
 │
-├── Raghavapriya_miniproject2.ipynb   # Jupyter Notebook
+├── Sales Performance Analysis.ipynb   # Jupyter Notebook
 ├── product_sales_dataset_final.xlsx  # Dataset
 ├── README.md
 ```
